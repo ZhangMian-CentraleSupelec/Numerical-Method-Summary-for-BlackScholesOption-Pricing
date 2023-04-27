@@ -109,7 +109,8 @@ Here we create an Decorater, which can analyse the vairance and confidence inter
 - same as $$S_{t} = S_{0}exp((r-\frac{1}{2}\sigma ^2)t+\sigma \sqrt{t} Z)$$
 
 - Normal Case:
-![image](https://user-images.githubusercontent.com/110284601/234842272-fa39e6ba-e0bf-4b5a-8ea0-44298ab80ae4.png)
+
+![image](https://user-images.githubusercontent.com/110284601/234846018-596f13a6-d149-466e-a60c-a9d4991f66d5.png)
 
 - LogNormal Case:
 
